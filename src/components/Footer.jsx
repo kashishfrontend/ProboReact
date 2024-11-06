@@ -20,7 +20,7 @@ const Footer = () => {
                                     /> */}
                                     <div
                                         className="footer-logo widget-title"
-                                        style={{ margin: '0', position: 'relative', top: '20px', color: 'gray' }}
+                                        style={{ margin: '0', position: 'relative', top: '8px', color: 'gray' }}
                                     >
                                         <h6 className="widget-title" style={{ fontSize: '25px' }}>
                                             PROBO
